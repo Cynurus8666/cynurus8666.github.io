@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bài đăng đầu tiên"
-categories: programming
+categories: programming, life
 meta: "Springfield"
 ---
 
